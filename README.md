@@ -6,7 +6,7 @@ Upgrade do jogo "pedra, papel e tesoura" , com a temática baseada no jogo "pedr
 
 Ele oferece 5 opções de escolhas, para disputar com uma escolha aleatória do app mostrando assim o resultado final do jogo.
 
-
+https://github.com/diltonvilhena/Bazinga-App/issues/1#issue-1330788789
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -23,6 +23,6 @@ O App foi desenvolvido no Android Studio. Segue abaixo as técnicas e tecnologia
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o vídeo de apresentação do projeto em funcionamento aqui [Vídeo Youtube](https://www.youtube.com/watch?v=r7UGZXhYxKY)
+Você pode acessar o vídeo de apresentação do projeto em funcionamento aqui [Vídeo Youtube](https://youtube.com/shorts/r0FJJSGV-qk?feature=share)
 
 
